@@ -1,6 +1,6 @@
 # Awesome-Ecosystem-Developer-Tool-Integrations
 
-# Top Ecosystem & Developer Tool Integrations Ecosystem
+## Top Ecosystem & Developer Tool Integrations Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on iPaaS, Embedded Integration Platforms & Workflow Automation*  
