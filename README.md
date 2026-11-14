@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations?style=flat-square&logo=github&color=teal" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations?style=flat-square" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -74,7 +74,7 @@ The global Integration Platform as a Service (iPaaS) and developer integration s
 
 ## 🌱 Open-Source GitHub Projects
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[n8n](https://github.com/n8n-io/n8n)** 🪢 | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | **Fair-code visual workflow automation platform.** Connects 400+ services and LLMs with self-hostable Docker deployment, visual branching, and webhook triggers. The leading open-source Zapier/Make alternative. |
 | **[Huginn](https://github.com/huginn/huginn)** 🦅 | [![Stars](https://img.shields.io/github/stars/huginn/huginn?style=social&color=white)](https://github.com/huginn/huginn/stargazers) | **Lightweight agent system for automated event monitoring and tasks.** Built in Ruby, allowing developers to create custom agents that monitor web pages, trigger webhooks, and scrape APIs like a self-hosted Yahoo! Pipes. |
