@@ -135,3 +135,12 @@ Thank you for being part of the open-source community! 🙌
 Let's make ecosystem and developer tool integrations more open, predictable, and product-native.
 
 </div>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Ecosystem-Developer-Tool-Integrations&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Ecosystem-Developer-Tool-Integrations_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Ecosystem-Developer-Tool-Integrations_growth.svg">
+  </picture>
+</a>
